@@ -1,0 +1,136 @@
+#TampilanMenuUtama{
+	margin-top:15%;
+}
+
+#JudulForm{
+	margin-top: 100px;
+	margin-bottom: 20px;
+}
+
+#TampilDataMasterCabang{
+	margin-bottom: 20px;
+}
+
+#TampilDataMasterDivisi{
+	margin-bottom: 20px;
+}
+
+#TampilDataMasterPosession{
+	margin-bottom: 20px;
+}
+
+#TampilDataMasterPICIT{
+	margin-bottom: 20px;
+}
+
+#TampilDataMasterKategori{
+	margin-bottom: 20px;
+}
+
+#TampilDataMasterMerk{
+	margin-bottom: 20px;
+}
+
+#TampilDataMasterTipe{
+	margin-bottom: 20px;
+}
+
+#TampilDataMasterVendor{
+	margin-bottom: 20px;
+}
+
+#TampilDataMasterPengepul{
+	margin-bottom: 20px;
+}
+
+#TampilDataMasterPropinsi{
+	margin-bottom: 20px;
+}
+
+#TampilDataMasterKabupatenKota{
+	margin-bottom: 20px;
+}
+
+#TampilDataMasterHardware{
+	margin-bottom: 20px;
+}
+
+#TampilDataTransaksiPengadaan{
+	margin-bottom: 20px;
+}
+
+#TampilDataTransaksiPeremajaan{
+	margin-bottom: 20px;
+}
+
+#TampilDataTransaksiPerawatan{
+	margin-bottom: 20px;
+}
+
+#TampilDataTransaksiPenjualan{
+	margin-bottom: 20px;
+}
+
+#TampilDataLaporan{
+	margin-bottom: 20px;
+}
+
+#TambahData{
+	margin-bottom: 20px;
+}
+
+.PilihDataCabang:hover{
+	cursor:pointer;
+}
+
+.PilihDataDivisi:hover{
+	cursor:pointer;
+}
+
+.PilihDataPosession:hover{
+	cursor:pointer;
+}
+
+.PilihDataPICIT:hover{
+	cursor:pointer;
+}
+
+.PilihDataKategori:hover{
+	cursor:pointer;
+}
+
+.PilihDataMerk:hover{
+	cursor:pointer;
+}
+
+.PilihDataTipe:hover{
+	cursor:pointer;
+}
+
+.PilihDataVendor:hover{
+	cursor:pointer;
+}
+
+.PilihDataPengepul:hover{
+	cursor:pointer;
+}
+
+.PilihDataPropinsi:hover{
+	cursor:pointer;
+}
+
+.PilihDataKabupatenKota:hover{
+	cursor:pointer;
+}
+
+.PilihDataHardware:hover{
+	cursor:pointer;
+}
+
+.PilihDataSerialNumber:hover{
+	cursor:pointer;
+}
+
+.PilihDataPengadaanHardware:hover{
+	cursor:pointer;
+}
